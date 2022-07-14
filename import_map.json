@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "swiper": "https://esm.sh/swiper",
+    "preact": "https://esm.sh/preact@10.8.2"
+  }
+}

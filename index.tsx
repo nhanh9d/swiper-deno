@@ -1,8 +1,7 @@
+import Swiper from "swiper";
 import { h, Component } from 'preact';
-import Swiper from 'swiper';
 
 export default class PSwiper extends Component {
-
     static defaultProps = {
         swiperIsInitialized: () => { },
         options: {},
