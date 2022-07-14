@@ -8,14 +8,5 @@
 
 ![](./img/preact-swiper-demo.gif)
 
-### Installation
-
-```bash
-npm install --save swiper
-npm install --save preact-swiper@https://github.com/Lizhooh/preact-swiper.git
-```
-
-### Usage
-
 ## License
 [License](./LICENSE)
